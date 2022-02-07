@@ -5,7 +5,7 @@
 
 # 🚀 Linguagens C <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 
-Trabalho academico Jogo de Xadrez. A princípio esse exercício foi feito há um bom tempo, com pouco conhecimento. Espero que entenda-os como forma de aprendizagem. Talvez
+Trabalho academico Jogo de Xadrez. A princípio esse exercício foi feito há um bom tempo, com pouco conhecimento. Espero que entenda como forma de aprendizagem. Talvez
 possue alguns erros de não entendimento da época. 
 
 ## 📋 Pré-requisitos
